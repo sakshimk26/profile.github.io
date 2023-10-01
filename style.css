@@ -17,7 +17,7 @@ body {
 .cursor-outline{
 	width: 30px;
 	height: 30px;
-	border: 2px solid hsla(0, 100%, 64%, 0.5);
+	border: 10px solid hsla(0, 100%, 64%, 0.5);
 }
 
 .cursor-dot,
